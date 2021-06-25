@@ -1,0 +1,36 @@
+{
+  "name": "the-rosa",
+  "version": "1.0.0",
+  "description": "Front-end Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrs070/the-rosa.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Responsive-Design",
+    "Front-end"
+  ],
+  "author": "hrs070",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrs070/the-rosa/issues"
+  },
+  "homepage": "https://github.com/hrs070/the-rosa#readme",
+  "devDependencies": {
+    "@webpack-cli/generators": "^2.2.0",
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "scrollreveal": "^4.0.9"
+  }
+}
